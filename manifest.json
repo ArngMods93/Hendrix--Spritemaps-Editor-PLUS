@@ -1,7 +1,7 @@
 {
-  "name": "Hendrix Spritemaps Editor",
-  "short_name": "Hendrix Spritemaps Editor",
-  "description": "Editor de Spritemaps para V-Slice y Better TA.",
+  "name": "Hendrix's Spritemaps Editor PLUS",
+  "short_name": "Hendrix's Spritemaps Editor PLUS",
+  "description": "Spritemaps editor made specifically for FNF.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
